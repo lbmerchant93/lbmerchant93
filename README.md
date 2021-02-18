@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello, and welcome to my profile! Here is some information about me!
 
-<!--
-**lbmerchant93/lbmerchant93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Lucas Merchant and I am a Software Engineer with a focus on Front-End Development that studied at Turing School of Software & Design
 
-Here are some ideas to get you started:
+### Key Skills:
+ * JavaScript
+ * Node JS
+ * React
+ * Test Driven Development 
+ * CSS3 / SASS 
+ * HTML5
+ * Cypress
+ * Express
+ * Mocha/Chai
+ * Accessibility/ARIA
+ * RESTful APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Previous educational background:
+ * B.S. Mechanical Engineering from the University of South Carolina (class of 2016)
+
+#### What I do outside of coding:
+ * Snowboarding / Rock Climbing / Mountain Biking / Hiking
+ * Plant Enthusiast 
+ * Traveling (when not in a pandemic)
+
+#### How to contact me:
+ * Email: lbmerchant93@gmail.com
+ * [LinkedIn](https://www.linkedin.com/in/lucas-merchant93/)
+ 
