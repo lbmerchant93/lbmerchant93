@@ -47,4 +47,6 @@
 #### How to contact me:
  * Email: lbmerchant93@gmail.com 📧
  * [LinkedIn](https://www.linkedin.com/in/lucas-merchant93/) 
+
+[![LM's github stats](https://github-readme-stats.vercel.app/api?username=lbmerchant93&theme=blue-green)](https://github.com/lbmerchant93/github-readme-stats)
  
