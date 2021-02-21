@@ -1,6 +1,6 @@
 # 🤗 Hello, and welcome to my profile! Here is some information about me!
 
-## 🙍 My name is Lucas Merchant and I am a Software Engineer with a focus on Front-End Development that studied at [Turing School of Software and Design](https://frontend.turing.io/)
+## My name is Lucas Merchant and I am a Software Engineer with a focus on Front-End Development that studied at [Turing School of Software and Design](https://frontend.turing.io/)
 
 <h2 align="center">Technologies:</h2>
 
@@ -36,12 +36,13 @@
  * RESTful APIs
 
 #### 🎓 Previous educational background:
- * B.S. Mechanical Engineering from the University of South Carolina (class of 2016)
+ * B.S. Mechanical Engineering from the University of South Carolina (class of 2016) 
 
 #### What I do outside of coding:
  * Snowboarding 🏂 / Rock Climbing 🧗 / Mountain Biking 🚵 / Hiking 🥾
  * Plant Enthusiast 🌱 🍄 🌲 🌻 🌵 🌹
  * Traveling (when not in a pandemic) 🌎 🌍 🌏
+ * Spending time with my dog 🐺
 
 #### How to contact me:
  * Email: lbmerchant93@gmail.com 📧
