@@ -1,6 +1,7 @@
 # 🤗 Hello, and welcome to my profile! Here is some information about me!
 
 ## My name is Lucas Merchant and I am a Software Engineer with a focus on Front-End Development that studied at [Turing School of Software and Design](https://frontend.turing.io/)
+#### *Currently working with a project on Gitlab, reach out to me if you'd like to hear more!*
 
 <h2 align="center">Technologies:</h2>
 
@@ -48,7 +49,6 @@
 #### What I do outside of coding:
  * Snowboarding 🏂 / Rock Climbing 🧗 / Mountain Biking 🚵 / Hiking 🥾
  * Plant Enthusiast 🌱 🍄 🌲 🌻 🌵 🌹
- * Traveling (when not in a pandemic) 🌎 🌍 🌏
  * Spending time with my dog 🐺
 
 #### How to contact me:
