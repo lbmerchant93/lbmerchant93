@@ -47,5 +47,5 @@
  * Spending time with my dog 🐺
 
 #### How to contact me:
- * Email: lbmerchant93@gmail.com 📧
+ * Email: lucasbmerchant@gmail.com 📧
  * LinkedIn: [lucas-merchant93](https://www.linkedin.com/in/lucas-merchant93/) 
