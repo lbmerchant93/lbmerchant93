@@ -36,6 +36,8 @@
  * Test Driven Development 
  * Accessibility/ARIA
  * RESTful APIs
+ * PrismaORM
+ * MaterialUI
 
 #### 🎓 Educational background:
  * Frontend Software Development at Turing School of Software & Design
