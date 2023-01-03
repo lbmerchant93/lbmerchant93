@@ -34,10 +34,10 @@
 
 ### 🔑 Other key Skills:
  * Test Driven Development 
- * Accessibility/ARIA
  * RESTful APIs
  * PrismaORM
  * MaterialUI
+ * Firebase
 
 #### 🎓 Educational background:
  * Frontend Software Development at Turing School of Software & Design
